@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.5" class="java.beans.XMLDecoder">
+ <object class="desk.xml.SqlSvrInfo">
+  <void property="MssqlSvHost">
+   <string>localhost</string>
+  </void>
+  <void property="MssqlSvInstance">
+   <string>SQLEXPRESS</string>
+  </void>
+  <void property="MssqlSvPort">
+   <int>1433</int>
+  </void>
+  <void property="MssqlSvCatalog">
+   <string>JdbcSample</string>
+  </void>
+  <void property="MssqlSvLoginMode">
+   <boolean>false</boolean>
+  </void>
+  <void property="MssqlSvUserID">
+   <string>sa</string>
+  </void>
+  <void property="MssqlSvPassword">
+   <string>sapassword</string>
+  </void>
+  <void property="MssqlSvConnectTimeout">
+   <int>3</int>
+  </void>
+  <void property="MssqlSvMars">
+   <boolean>false</boolean>
+  </void>
+ </object>
+</java>
