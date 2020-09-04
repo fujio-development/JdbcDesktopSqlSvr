@@ -6,9 +6,9 @@ ___
 言語：Java 11  
 デスクトップ：Swing
 デベロッパーSDK：Adopt OpenJDK 11.0.8  
-データベース：Microsoft SQLServer 2019 Express CU6  
+データベース：Microsoft SQLServer 2019 Express CU7  
 -データベース管理ツール：Microsoft SQL Server Management Studio 18.6
-データベース接続：Microsoft JDBC Driver 8.4.0 for SQL Server  
+データベース接続：Microsoft JDBC Driver 8.4.1 for SQL Server  
 ```
 
 ![Img](ReadmeImg.png)  
