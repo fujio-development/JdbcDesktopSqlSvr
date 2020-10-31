@@ -5,9 +5,9 @@ ___
 開発環境：Eclipse 2020-09 R(4.17.0) Pleiades  
 言語：Java 11  
 デスクトップ：Swing
-デベロッパーSDK：Adopt OpenJDK 11.0.8  
+デベロッパーSDK：Adopt OpenJDK 11.0.9  
 データベース：Microsoft SQLServer 2019 Express CU8  
--データベース管理ツール：Microsoft SQL Server Management Studio 18.6
+-データベース管理ツール：Microsoft SQL Server Management Studio 18.7.1
 データベース接続：Microsoft JDBC Driver 8.4.1 for SQL Server  
 ```
 
