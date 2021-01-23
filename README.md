@@ -2,7 +2,7 @@
 ___
 ### 環境
 ```
-開発環境：Eclipse 2020-09 R(4.17.0) Pleiades  
+開発環境：Eclipse 2020-12 R(4.17.0) Pleiades  
 言語：Java 11  
 デスクトップ：Swing
 デベロッパーSDK：Adopt OpenJDK 11.0.10 + 9  
@@ -62,3 +62,8 @@ insert into [JdbcSample].[dbo].[ShohinDataDesk]
 	(ShohinNum, ShohinName, EditDate, EditTime, Note) values
 	(270,'ｳﾒｵﾆｷﾞﾘ',20080825,141520,'none')
 ```
+
+#### SQL Server Configuration Manager  
+SQL Server Browserの実行とTCP/IPの有効を適用して下さい。  
+
+___
