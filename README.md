@@ -8,7 +8,7 @@ ___
 デベロッパーSDK：Adopt OpenJDK 11.0.10 + 9  
 データベース：Microsoft SQLServer 2019 Express CU9  
 -データベース管理ツール：Microsoft SQL Server Management Studio 18.8
-データベース接続：Microsoft JDBC Driver 9.2.0 for SQL Server  
+データベース接続：Microsoft JDBC Driver 9.2.1 for SQL Server  
 ```
 
 ![Img](ReadmeImg.png)  
